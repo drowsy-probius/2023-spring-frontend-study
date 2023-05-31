@@ -79,3 +79,8 @@ TDZ에 영향을 받지 않는 것. `var`, `function`, `import`;
 
 
 
+https://dummyjson.com/ 
+
+https://jsonplaceholder.typicode.com/guide/
+
+https://mswjs.io/
