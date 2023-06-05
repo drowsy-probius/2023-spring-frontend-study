@@ -84,3 +84,25 @@ https://dummyjson.com/
 https://jsonplaceholder.typicode.com/guide/
 
 https://mswjs.io/
+
+
+# 0605 
+
+## React ref
+
+https://programming119.tistory.com/265 
+
+https://programming119.tistory.com/266 
+
+
+## React rendering 
+
+https://velog.io/@superlipbalm/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior
+
+props, state, parent component에 변경이 발생하면 `React`의  re-rendering이 발생함.
+
+
+Trigger -> Render -> Commit 
+
+강제 렌더링 방법: state 변경, 노드의 key 변경 등. 리컨실레이션  
+
