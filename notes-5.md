@@ -106,3 +106,5 @@ Trigger -> Render -> Commit
 
 강제 렌더링 방법: state 변경, 노드의 key 변경 등. 리컨실레이션  
 
+
+https://hewonjeong.github.io/deep-dive-how-do-react-hooks-really-work-ko/
